@@ -49,6 +49,10 @@ Plugin 'jidn/vim-dbml'
 " TODO: https://github.com/dense-analysis/ale
 " TODO: https://github.com/justinmk/vim-sneak
 
+" Status Line
+" htttps://github.com/vim-airline/vim-airline
+Plugin 'vim-airline/vim-airline'
+
 call vundle#end() 		" required
 filetype plugin indent on	" required
 syntax on
